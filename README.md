@@ -1,7 +1,7 @@
 
-# Aray
+# A Z X N
 
-Hello, I am Aray, a German developer.
+Hello, I am Azxn, a German developer.
 
 🌱 Founder of **XuriumDE**  
 👯 Looking for a Team
