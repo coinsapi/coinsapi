@@ -12,8 +12,7 @@ Hello, I am Azxn, a German developer.
 - 💽 MySQL, SQL, Mongo
 
 ### Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azxnexception&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 ### Contact
