@@ -11,6 +11,11 @@ Hello, I am Azxn, a German developer.
 - 👁️ CSS, Stylus
 - 💽 MySQL, SQL, Mongo
 
+### Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azxnexception&layout=compact)
+
+
 ### Contact
 - E-Mail: aray@araynetworks.de
 
