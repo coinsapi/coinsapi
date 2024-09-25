@@ -17,4 +17,4 @@
 <h3 align="left">Stats:</h3> 
 
 ![azxnexception's Streak](https://github-readme-streak-stats.herokuapp.com/?user=azxnexception&theme=tokyonight&hide_border=false) 
-![azxnexception's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azxnexception&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![azxnexception's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azxnexception&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
