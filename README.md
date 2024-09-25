@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **azxndeveloper@gmail.com**
 
-- ⚡ Fun fact **got a girlfriend**
+- ⚡ Fun fact **want a girlfriend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
