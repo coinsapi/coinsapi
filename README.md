@@ -40,13 +40,7 @@
 ## Github Stats  
 
 ![azxnexception's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azxnexception&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
-![azxnexception's Streak](https://github-readme-streak-stats.herokuapp.com/?user=azxnexception&theme=nightowl&hide_border=true)
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+![azxnexception's Streak](https://github-readme-streak-stats.herokuapp.com/?user=azxnexception&theme=nightowl&hide_border=true) 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=azxnexception&&style=flat-square" align="center" />
