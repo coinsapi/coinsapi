@@ -1,7 +1,7 @@
 ### <div align="center">I'm Sammy, a full-time developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working at **Indu-Sol GmbH**  
+- 🔭 I’m currently working for **Azxn Studios**  
   
 
 - 🌱 I’m currently learning Kotlin and Kubernetes  
