@@ -40,14 +40,14 @@
 ![azxnexception's Streak](https://github-readme-streak-stats.herokuapp.com/?user=azxncal&theme=nightowl&hide_border=true) 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=azxnexception&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=coinsapi&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/azxnexception" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/coinsapi" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
