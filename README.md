@@ -37,7 +37,6 @@
 ## Github Stats  
 
 ![azxnexception's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coinsapi&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
-![azxnexception's Streak](https://github-readme-streak-stats.herokuapp.com/?user=coinsapi&theme=nightowl&hide_border=true) 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=coinsapi&&style=flat-square" align="center" />
