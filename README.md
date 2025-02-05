@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sammy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coinsapi&label=Profile%20views&color=0e75b6&style=flat" alt="coinsapi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coinsapi&theme=" alt="coinsapi" /></a> </p>
-
 - 🔭 I’m currently working on [LironaNET](https://github.com/LironaNET)
 - 🌱 I’m currently learning **Kotlin**
 - 💬 Ask me about **everything that has to do with coding**
