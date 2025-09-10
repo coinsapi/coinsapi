@@ -8,13 +8,13 @@ Based in Saxony, Germany, I'm a software developer with a keen interest in Kotli
 
 ## Skills & Technologies
 
-kotlin,git,docker,graphql,html,css,react,nodejs,aws,flutter,spring,postgres,mysql
+[![My Skills](https://skillicons.dev/icons?i=kotlin,git,docker,graphql,html,css,react,nodejs,aws,flutter,spring,postgres,mysql&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-
 Public Repositories: 29 | Followers: 3 | Following: 34
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coinsapi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coinsapi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 
-{"twitch":"https://www.twitch.tv/qSxmmy"}
+<a href="https://www.twitch.tv/qSxmmy" target="_blank" rel="noopener noreferrer"><Icon /> Twitch</a>
